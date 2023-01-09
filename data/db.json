@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party",
+      "body": "Why do we use it?\nIt is a long established",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "hi",
+      "body": "hello",
+      "author": "yoshi",
+      "id": 3
+    },
+    {
+      "title": "hi",
+      "body": "hello",
+      "author": "yoshi",
+      "id": 4
+    },
+    {
+      "title": "oh",
+      "body": "Hello",
+      "author": "yoshi",
+      "id": 6
+    },
+    {
+      "title": "oh",
+      "body": "Hello",
+      "author": "yoshi",
+      "id": 7
+    }
+  ]
+}
